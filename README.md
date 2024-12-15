@@ -20,7 +20,7 @@
 
 ## 如何做科研
 
-* **学习别人的经验**：建议参考浙大一位老师的科研经验分享https://github.com/pengsida/learning_research
+* **学习别人的经验**：建议参考浙大一位老师的[科研经验分享](https://github.com/pengsida/learning_research)
   * 建议在不同的科研阶段侧重方面的内容，例如在科研初期，着重阅读 [如何培养科研能力](https://github.com/pengsida/learning_research/blob/master/getting_advanced_in_research.md)、[如何做research project](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)
   * 在实验阶段，着重阅读 [如何分析实验不work原因](https://pengsida.notion.site/work-1aee6e718de6472f834d13da8f4ff097)、[如何做实验记录](https://pengsida.notion.site/caf34717f4c046c69ee7e14ea953c46f)、[如何与同门、导师汇报](https://pengsida.notion.site/d697ef578d784c869d4f8314f0d617da)
   * 在实验后期和论文写作阶段，着重阅读 [如何写论文](https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e)。**需要注意实验和论文不应该是独立的两部分！**两者应该是紧密关联在一起，论文中如何讲故事与模型method相辅相成
