@@ -355,6 +355,8 @@ source ~/.bashrc
 
 退出容器后，执行以下命令将容器保存为镜像：
 
+**注意这里命名的时候也要注意加上姓名缩写！**
+
 ```bash
 docker commit -a 'author' -m 'instruction' 容器名称 保存的镜像名称
 
